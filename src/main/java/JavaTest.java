@@ -6,5 +6,6 @@ public class JavaTest {
         System.out.println("Hello Git");
          System.out.println("Hello Git");
           System.out.println("Hello Git");
+        Scanner input=new Scanner(System.in);
     }
 }
